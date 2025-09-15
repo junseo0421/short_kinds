@@ -1,6 +1,6 @@
-# flutter_application_1
+# Short Kinds
 
-A new Flutter project.
+2025 뉴스 빅데이터 해커톤 본선 진출
 
 ## Getting Started
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
